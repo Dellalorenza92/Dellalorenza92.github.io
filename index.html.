@@ -2,14 +2,30 @@
 <html>
    <head>
      <meta charset="utf-8">
-     <title>progate</title>
+     <title>FUTY</title>
+     <link rell="stylesheet" href="stylesheet.css">
      </head>
      <body>
-        <h1 class="title">HOW to Make a Website with HTML & CSS on your Computer</h1>
-        </body>
-        </html>
-        <h1>
-          <p>In this article you will learn to make a website with HTML & CSS on your own computer instead of making it in the browser with Progate.</p>
-          <head>
-            <link rel="stylesheet" href="stylesheet.css">
+       <div class="header">
 
+         <div class="header-logo">FUTY</div>
+
+         <div class="header-list">
+           <ul>
+             <li>About Us</li>
+             <li>Products</li>
+             <li>Sign In</li>
+           </ul>
+         </div>
+
+       </div>
+
+       <div class="main">
+
+       </div>
+
+       <div class="footer">
+
+       </div>
+     </body>
+     </html>
